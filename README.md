@@ -1,9 +1,8 @@
-- 👋 Hi, I’m YX @yxgdev
+- 👋 Hi, I’m Bruce @yxgdev
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning various technologies.
 - 💞️ I’m looking to software engineering oppurtunities
-- 📫 How to reach me ...
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available in this profile
 
 <!---
 yxgdev/yxgdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
