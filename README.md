@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruce @yxgdev
-- 👀 I’m interested in Web Development and Machine Learning
+- 👀 I’m interested in Web Development and Algorithms
 - 🌱 I’m currently learning various technologies.
 - 💞️ I’m looking to software engineering oppurtunities
 - 👨‍💻 All of my projects are available in this profile
