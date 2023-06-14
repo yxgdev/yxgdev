@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Bruce @yxgdev
+- 👋 Hi, I’m Bruce @yxgdev [Personal Website](https://yxgdev.github.io/)
 - 👀 I’m interested in Web Development and Algorithms
 - 🌱 I’m currently learning various technologies.
-- 💞️ I’m looking to software engineering oppurtunities
+- 💞️ I’m looking to software engineering and data science oppurtunities
 - 👨‍💻 All of my projects are available in this profile
 
 <!---
